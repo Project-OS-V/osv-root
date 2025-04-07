@@ -1,4 +1,15 @@
-# u-root
+# osv-root
+This is the OS/V fork of [u-root](https://github.com/u-root/u-root), being rewritten and adapted for OS/V. This fork will evolve, 
+replacing the existing cmds with OS/V specific commands.
+
+## Branching Model
+
+- `upstream-main`: Mirror of upstream `u-root/main`
+- `osv-main`: Active development branch for OS/V customizations
+
+
+# u-root ORIGINAL README Contents
+Contents below may no longege be applicable to this build.  
 
 [![Build Status](https://circleci.com/gh/u-root/u-root/tree/main.png?style=shield)](https://circleci.com/gh/u-root/u-root/tree/main)
 [![codecov](https://codecov.io/gh/u-root/u-root/branch/main/graph/badge.svg?token=1qjHT02oCB)](https://codecov.io/gh/u-root/u-root)
